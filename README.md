@@ -11,7 +11,7 @@ Programmpfad im UGV (Ghost Vision 60): ~/Magnetometer/
 
 Pfad für aktuelle Messungen im UGV: ~/Magnetometer/Datenerfassung/Messung_aktuell/
 
-Pfad für aktuelle Messungen im UGV: ~/Magnetometer/Datenerfassung/Messungen_Archiv/
+Pfad für Archiv der Messungen im UGV: ~/Magnetometer/Datenerfassung/Messungen_Archiv/
 
 ## Beispiel
 
